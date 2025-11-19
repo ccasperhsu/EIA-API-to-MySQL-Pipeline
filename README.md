@@ -7,8 +7,9 @@ The API we are working with is published by the Energy Information Administratio
 You need to register for a free account in order to get the API key. We will store this sensitive information, along with our database credentials using Python's dotenv library. 
 
 ## Technologies Used:
+
 - Python:
-  - 
+  - To connect to a MySQL database in Python, you can use the mysql-connector-python package. This package provides a Python interface for connecting to MySQL databases using the MySQL Connector/Python API.
   - **Libraries**: os, request, pandas, python-dotenv, mysql-connector-python
 - MySQL
 
