@@ -4,7 +4,6 @@
 - [Introduction](#introduction)
 - [Python Libraries Used](#python-libraries-used)
 - [Data](#data)
-	- [Sample Data](#sample-data)
 - [Workflow Overview](#workflow-overview)
 
 ## Introduction 
