@@ -1,5 +1,12 @@
 # API to Database ETL Pipeline
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Python Libraries Used](#python-libraries-used)
+- [Data](#data)
+	- [Sample Data](#sample-data)
+- [Workflow Overview](#workflow-overview)
+
 ## Introduction 
 
 The goal of this project is to construct an ETL (Extract, Transform, Load) pipeline using Python so that the connected database can receive updated, formatted data from an API when the script is executed. Additionally, when data containing duplicated records is retrieved from the API, the pipeline will only update duplicated records and insert new rows.
@@ -21,13 +28,13 @@ The quantitative fields are the *number of customers*, *average price of electri
 
 <img width="1887" height="883" alt="image" src="https://github.com/user-attachments/assets/28ad3f3e-24d0-4b0e-a675-dedfde325a4c" />
 
-## Sample Data
+### Sample Data
 
 <img width="2788" height="960" alt="image" src="https://github.com/user-attachments/assets/6d500d02-cb99-4051-bd12-58223dbac25d" />
 
-Further details can be found on [EIA's API Technical Documentation](https://www.eia.gov/opendata/documentation.php#Submittingrequesttoour)
+Further details can be found on [EIA's API Technical Documentation](https://www.eia.gov/opendata/documentation.php#Submittingrequesttoour).
 
-## High Level Workflow
+## Workflow Overview
 
 <img width="1139" height="271" alt="image" src="https://github.com/user-attachments/assets/fa94650c-86ea-4670-b0ac-9c6dd38fc878" />
 
