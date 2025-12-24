@@ -1,0 +1,2 @@
+# This contains sensitive information we don't want git to track. 
+.env
