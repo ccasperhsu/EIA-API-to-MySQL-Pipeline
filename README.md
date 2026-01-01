@@ -10,7 +10,7 @@
 
 The goal of this project is to construct an ETL (Extract, Transform, Load) pipeline using Python so that the connected database can receive updated, formatted data from an API when the script is executed. Additionally, when data containing duplicated records is retrieved from the API, the pipeline will only update duplicated records and insert new rows.
 
-The data collect on the sale of electricity can be used to perform inter-regional comparisons, time series analysis, customer segmentation analysis, just to name a few. While this project focuses on connecting a specific API to a database, the underlying workflow can be extended to other APIs/databases as well. 
+The data collect on the sale of electricity can be used to perform inter-regional comparisons, time series analysis, customer segmentation analysis, among other applications. While this project focuses on connecting a specific API to a database, the underlying workflow can be extended to other APIs / databases as well. 
 
 ## Python Libraries Used:
   - *os*: Provides access to operating-system level functionality such as file paths, environment variables, and directory manipulation.
